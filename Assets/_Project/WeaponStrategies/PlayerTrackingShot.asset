@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5b733f8a914fcb984171617bdaf472, type: 3}
+  m_Name: PlayerTrackingShot
+  m_EditorClassIdentifier: 
+  damage: 10
+  fireRate: 0.5
+  projectileSpeed: 2.5
+  projectileLifetime: 5
+  projectilePrefab: {fileID: 2094825200110782805, guid: b80a68d7fc0f60e42854c788bd5bb9d5,
+    type: 3}
+  trackingSpeed: 1
